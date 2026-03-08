@@ -1,0 +1,26 @@
+Test Case 1: Load Carrying Test
+Objective: To check whether the cart can carry agricultural loads.
+Procedure: Place a load of crops in the cargo tray and move the cart on flat ground.
+Expected Result: The cart should carry the load smoothly without instability.
+
+Test Case 2: Hill Climbing Test
+Objective: To check the ability of the cart to move on sloped terrain.
+Procedure: Operate the cart on a small inclined surface.
+Expected Result: The gear reduction system should provide enough torque to climb the slope.
+
+Test Case 3: Rough Terrain Test
+Objective: To test movement on muddy or uneven surfaces.
+Procedure: Run the cart on rough ground conditions.
+Expected Result: The traction wheels should maintain grip and move the cart forward.
+
+Test Case 4: Stability Test
+Objective: To verify the stability of the cargo tray during movement.
+Procedure: Drive the cart with crops loaded and observe the tray stability.
+
+Expected Result: The cargo tray should remain stable and prevent crop damage.
+
+The Smart Agri-Terrain Transporter was tested under different conditions such as load carrying, hill climbing, and rough terrain movement.
+
+The cart successfully transported crops without instability. The gear reduction system provided sufficient torque for climbing slopes. The traction wheels allowed smooth movement on uneven and muddy surfaces.
+
+Overall, the prototype demonstrated improved efficiency in transporting crops and reduced manual effort for farmers.
