@@ -1,42 +1,60 @@
-
 # Smart Agri-Terrain Transporter
 
-Low-cost hill-climbing agricultural cart for transporting crops on rough terrain.
+Low-cost hill-climbing agricultural cart designed to transport crops safely on steep, muddy, and uneven farm terrain.
 
 ## Student Details
 Name: BHARANIDHARAN P  
 Department: Mechanical Engineering  
 Year: 3rd Year  
 
+## Project Overview
+The Smart Agri-Terrain Transporter is a motorized agricultural cart developed to help farmers transport crops in hilly and rough terrain. Farmers often face difficulty carrying harvested crops manually on steep paths. This project provides a mechanical transport solution that reduces labour and improves productivity.
+
 ## Problem Statement
-Farmers in hilly and rural regions face difficulty transporting harvested crops because the terrain is steep, muddy, and uneven. Carrying crops manually requires heavy physical effort and often causes crop damage.
+Farmers in hilly and rural regions face difficulty transporting harvested crops because the terrain is steep, muddy, and uneven. Manual transport requires heavy physical effort and often leads to crop damage. A low-cost transport system is needed to assist farmers in moving crops safely across rough terrain.
 
 ## Objectives
 - Reduce physical effort for farmers
-- Enable crop transport on steep terrain
+- Enable crop transport on steep and uneven terrain
 - Prevent crop damage during transportation
-- Provide a low-cost farming solution
+- Provide a simple and low-cost agricultural transport solution
 
 ## System Design
-The Smart Agri-Terrain Transporter consists of a steel chassis frame, DC motor, gear reduction system, and traction wheels. The system is designed to move easily on rough terrain and carry agricultural loads safely.
+The Smart Agri-Terrain Transporter consists of a steel chassis frame, traction wheels, a DC motor, and a gear reduction system. The motor provides motion while the gear system increases torque to allow the cart to climb slopes. The cargo tray carries agricultural products during transportation.
 
-## Components
+## Components Used
+- Arduino Uno
 - DC Motor
+- Motor Driver (L298N)
+- MPU6050 Tilt Sensor
 - Battery
 - Gear Reduction System
-- Chain & Sprocket Drive
+- Chain and Sprocket Drive
 - Steel Chassis
-- Wheels
+- Traction Wheels
 - Cargo Tray
 
 ## Working Principle
-The battery powers the DC motor. The motor drives the gear reduction system which increases torque. Power is transmitted to the wheels through a chain and sprocket mechanism, allowing the cart to move on rough terrain and transport crops.
+The battery supplies electrical power to the DC motor through a motor driver controlled by Arduino. The motor rotates the gear reduction system which increases torque and drives the wheels. The tilt sensor detects slope conditions and sends data to the Arduino. Based on the terrain angle, the system maintains stable movement while transporting crops.
+
+## Smart Features
+- Hill climbing gear mechanism
+- Tilt sensor for terrain detection
+- Arduino-based motor control
+- Strong traction wheels for rough terrain
 
 ## Testing
-The system was tested for load carrying capacity, hill climbing ability, rough terrain movement, and cargo stability.
+The prototype was tested under several conditions:
 
-## Result
-The cart successfully transported crops on uneven terrain while reducing manual effort for farmers.
+- Load carrying capacity test
+- Hill climbing test
+- Rough terrain movement test
+- Cargo tray stability test
+
+## Results
+The Smart Agri-Terrain Transporter successfully transported agricultural loads across uneven terrain and climbed moderate slopes. The system reduced manual effort and improved efficiency for transporting crops in farm environments.
 
 ## Conclusion
-The Smart Agri-Terrain Transporter provides a simple and low-cost solution for agricultural transportation in rural and hilly areas.
+This project demonstrates a simple and cost-effective solution for agricultural transportation in rural and hilly regions. The Smart Agri-Terrain Transporter can help farmers reduce labour effort and safely move crops across difficult terrain.
+
+## Project Structure
