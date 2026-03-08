@@ -1,0 +1,22 @@
+The Smart Agri-Terrain Transporter is designed as a compact agricultural cart for transporting crops on rough terrain. The system consists of a strong steel chassis frame that supports all components. 
+A DC motor provides the driving force for the vehicle. The motor is connected to a gear reduction system which increases torque to allow the cart to climb slopes.
+
+The power from the gear system is transmitted to the wheels through a chain and sprocket mechanism. The wheels are designed with deep traction patterns so the vehicle can move on muddy and uneven farm paths. 
+A cargo tray is mounted on the chassis to carry harvested crops safely during transportation.
+
+The design focuses on simplicity, durability, and low cost so that farmers can easily use and maintain the system.
+
+Components Used:
+                                                  Battery
+                                                     ↓
+                                                  DC Motor
+                                                     ↓
+                                                  Gear Reduction System
+                                                     ↓
+                                                  Chain & Sprocket Drive
+                                                     ↓
+                                                  Wheel Rotation
+                                                     ↓
+                                                  Cart Movement
+                                                     ↓
+                                                  Crop Transportation
