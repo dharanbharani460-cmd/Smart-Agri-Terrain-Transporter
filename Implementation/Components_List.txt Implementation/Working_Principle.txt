@@ -7,16 +7,13 @@ A cargo tray is mounted on the chassis to carry harvested crops safely during tr
 The design focuses on simplicity, durability, and low cost so that farmers can easily use and maintain the system.
 
 Components Used:
-                                                  Battery
-                                                     ↓
-                                                  DC Motor
-                                                     ↓
-                                                  Gear Reduction System
-                                                     ↓
-                                                  Chain & Sprocket Drive
-                                                     ↓
-                                                  Wheel Rotation
-                                                     ↓
-                                                  Cart Movement
-                                                     ↓
-                                                  Crop Transportation
+            1. Arduino Uno
+            2.DC Motor
+            3.Motor Driver (L298N)
+            4.MPU6050 Tilt Sensor
+            5.Battery
+            6.Gear Reduction System
+            7.Chain & Sprocket
+            8.Steel Chassis
+            9.Wheels
+            10.Cargo Tray
