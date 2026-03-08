@@ -1,0 +1,24 @@
+
+                                 Start
+                                  ↓
+                            Battery Power Supply
+                                  ↓
+                             Arduino Initialization
+                                  ↓
+                     Tilt Sensor (MPU6050) Reads Terrain Angle
+                                  ↓
+                          Arduino Processes Sensor Data
+                                  ↓
+                         Motor Driver Controls DC Motor
+                                  ↓
+                              Gear Reduction System
+                                  ↓
+                             Chain & Sprocket Drive
+                                  ↓
+                               Wheel Rotation
+                                  ↓
+                            Cart Movement on Terrain
+                                  ↓
+                              Crop Transportation
+                                  ↓
+                                 Stop
