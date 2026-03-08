@@ -1,0 +1,6 @@
+The Smart Agri-Terrain Transporter is a low-cost agricultural cart designed to help farmers transport crops on rough and hilly terrain. 
+The system uses a DC motor, gear reduction mechanism, and traction wheels to move efficiently on uneven surfaces.
+
+The prototype was tested for load carrying, hill climbing, and rough terrain movement. The results showed that the cart successfully transported crops while reducing manual effort for farmers.
+
+This project provides a practical and affordable solution for agricultural transportation in rural and hilly regions.
